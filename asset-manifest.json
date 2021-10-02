@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/EleseAcad/static/js/main.948f9673.chunk.js",
+    "main.js.map": "/EleseAcad/static/js/main.948f9673.chunk.js.map",
+    "runtime-main.js": "/EleseAcad/static/js/runtime-main.15e0879a.js",
+    "runtime-main.js.map": "/EleseAcad/static/js/runtime-main.15e0879a.js.map",
+    "static/js/2.e68e7aa2.chunk.js": "/EleseAcad/static/js/2.e68e7aa2.chunk.js",
+    "static/js/2.e68e7aa2.chunk.js.map": "/EleseAcad/static/js/2.e68e7aa2.chunk.js.map",
+    "index.html": "/EleseAcad/index.html",
+    "static/js/2.e68e7aa2.chunk.js.LICENSE.txt": "/EleseAcad/static/js/2.e68e7aa2.chunk.js.LICENSE.txt",
+    "static/media/IT.d8fd6b12.jpg": "/EleseAcad/static/media/IT.d8fd6b12.jpg",
+    "static/media/elese.cd639d99.svg": "/EleseAcad/static/media/elese.cd639d99.svg",
+    "static/media/media.386c3921.jpg": "/EleseAcad/static/media/media.386c3921.jpg",
+    "static/media/popup.6f6e602d.jpg": "/EleseAcad/static/media/popup.6f6e602d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e0879a.js",
+    "static/js/2.e68e7aa2.chunk.js",
+    "static/js/main.948f9673.chunk.js"
+  ]
+}
